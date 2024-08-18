@@ -21,6 +21,6 @@ Example Installation Instructions
 > 9. Go into the "Video add-ons" section in the repo, and select [Add-on Name].zip
 
 > [!WARNING]
-> - [ ] Requires paid premium providers (eg.Premiumize, Real Debrid, or All-Debrid)
+> - [ ] Requires paid premium providers (eg.Premiumize, Real Debrid, All-Debrid, etc.)
 > - [ ] Requires CocoScrapers to be installed
 > - [ ] This is a P2P addon, if you use it, you may want to use a VPN
