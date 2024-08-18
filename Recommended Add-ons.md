@@ -120,6 +120,23 @@ This is an anime addon forked from Seren by TeamOtaku. Very good to watch all th
 > 8. Select the [Repository Name]
 > 9. Go into the "Video add-ons" section in the repo, and select Otaku add-on
 
+## POV
+POV is a Kodi add-on that allows you to stream movies and TV shows from premium sources. Based on Fen, POV is very fast, and it has many of the features from its predecessor.
+> [!WARNING]
+> - Requires paid premium providers (eg.Premiumize, Real Debrid, All-Debrid, etc.)
+
+> [!IMPORTANT]
+> Installation:
+> 1. Go to the Kodi file manager
+> 2. Click on "Add source"
+> 3. The path for the source is https://kodifitzwell.github.io/repo/ (Give it a name [SourceName]).
+> 4. Go to "Add-ons"
+> 5. In Add-ons, select Install add-on from zip
+> 6. When asked for the location, select [SourceName], and install repository.kodifitzwell-x.x.x.zip
+> 7. Go back to Add-ons install, but this time, select "Install from repository"
+> 8. Select the [Repository Name]
+> 9. Go into the "Video add-ons" section in the repo, and select POV add-on
+
 ## Scrubs v2
 Add-on for free links to movies and tv shows created by Jewbmx
 
