@@ -23,4 +23,4 @@ Example Installation Instructions
 > [!WARNING]
 > - [ ] Requires paid premium providers (eg.Premiumize, Real Debrid, All-Debrid, etc.)
 > - [ ] Requires CocoScrapers to be installed
-> - [ ] This is a P2P addon, if you use it, you may want to use a VPN
+> - [ ] This is a P2P add-on, if you use it, you may want to use a VPN
